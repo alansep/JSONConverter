@@ -1,0 +1,9 @@
+
+Converter 
+
+Pessoa [nome=Gargel, idade=25, telefone=[Telefone [numero=(18) 91212-2314], Telefone [numero=(18) 98111-1111]]]
+
+
+Para
+
+{"nome":"Gargel","idade":25,"telefone":[{"numero":"(18) 91212-2314"},{"numero":"(18) 98111-1111"}]}
